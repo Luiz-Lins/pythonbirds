@@ -15,5 +15,5 @@ if __name__ == '__main__':
     print(jose.cumprimentar())
     print(jose.nome)
     print(jose.idade)
-    for filho in luciano.filhos:
+    for filho in jose.filhos:
         print(filho.nome)
